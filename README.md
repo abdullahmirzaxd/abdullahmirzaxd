@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me : through email
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: coding is easy
+
 
 <!---
 abdullahmirzaxd/abdullahmirzaxd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
